@@ -1,1 +1,2 @@
-print("Hello")
+number = input("Enter")
+print(number)
